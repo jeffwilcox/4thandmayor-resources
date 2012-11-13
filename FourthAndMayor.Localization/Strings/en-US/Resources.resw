@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>About</value>
+    <comment>About - title for the page that is for "About" this app</comment>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+    <comment>Cancel command, typically used in a Button.</comment>
+  </data>
+  <data name="FoursquareHouseRules" xml:space="preserve">
+    <value>Foursquare House Rules</value>
+    <comment>Text for a link to Foursquare's "House Rules"</comment>
+  </data>
+  <data name="FoursquareTerms" xml:space="preserve">
+    <value>Foursquare Terms</value>
+    <comment>Text for a link to Foursquare's Terms</comment>
+  </data>
+  <data name="GroupFriendsInOtherCities" xml:space="preserve">
+    <value>Friends in other cities</value>
+    <comment>Text for a group of friends who have checked in elsewhere.</comment>
+  </data>
+  <data name="GroupLast3Hours" xml:space="preserve">
+    <value>Last 3 Hours</value>
+  </data>
+  <data name="GroupOlder" xml:space="preserve">
+    <value>Older</value>
+  </data>
+  <data name="GroupToday" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="GroupYesterday" xml:space="preserve">
+    <value>Yesterday</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>Help</value>
+    <comment>Help command, typically used as a button to link to "help"/more information</comment>
+  </data>
+  <data name="InformalEarlyMorning" xml:space="preserve">
+    <value>It's early in the morning!</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalGoodAfternoon" xml:space="preserve">
+    <value>Good afternoon.</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalGoodEvening" xml:space="preserve">
+    <value>Good evening.</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalGoodMorning" xml:space="preserve">
+    <value>Good morning.</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalGoodNight" xml:space="preserve">
+    <value>Having a good night?</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalGreetings" xml:space="preserve">
+    <value>Greetings.</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalHello" xml:space="preserve">
+    <value>Hello.</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalHey" xml:space="preserve">
+    <value>Hey.</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalHi" xml:space="preserve">
+    <value>Hi.</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalLoading" xml:space="preserve">
+    <value>Loading</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="InformalLunchtime" xml:space="preserve">
+    <value>Lunchtime!</value>
+    <comment>Used while information is loading, randomly, an informal message.</comment>
+  </data>
+  <data name="LocationOffTitle" xml:space="preserve">
+    <value>Location is turned off</value>
+  </data>
+  <data name="LocationOffUseCharms" xml:space="preserve">
+    <value>Your location is currently turned off. Change your settings through the Settings charm to turn it back on.</value>
+  </data>
+  <data name="LocationService" xml:space="preserve">
+    <value>Location Service</value>
+    <comment>Text describing the Location Service on the device</comment>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Next</value>
+    <comment>Next command, typically used in a Button.</comment>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>Ok</value>
+    <comment>Ok</comment>
+  </data>
+  <data name="Oobe-Tour" xml:space="preserve">
+    <value>Tour 4th &amp; Mayor</value>
+    <comment>Title text for the page that offers a "tour" of features and information about the app.</comment>
+  </data>
+  <data name="Oobe-Validating" xml:space="preserve">
+    <value>Getting ready</value>
+    <comment>Text about "getting ready" for something - used while validating the user's account.</comment>
+  </data>
+  <data name="Oobe-WelcomeTo4thAndMayor" xml:space="preserve">
+    <value>Welcome to 4th &amp; Mayor</value>
+    <comment>Welcome greeting, welcoming to the app named 4th &amp; Mayor.</comment>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Previous</value>
+    <comment>Previous command, typically used in a Button</comment>
+  </data>
+  <data name="PrivacyPolicy" xml:space="preserve">
+    <value>Privacy Policy</value>
+    <comment>Text for a link to the privacy policy for the app</comment>
+  </data>
+  <data name="SignOut" xml:space="preserve">
+    <value>Sign Out</value>
+    <comment>Command to "sign out" of the service</comment>
+  </data>
+  <data name="TermsOfUse" xml:space="preserve">
+    <value>Terms of Use</value>
+    <comment>Text for a link to the app's Terms of Use.</comment>
+  </data>
+  <data name="TryAgain" xml:space="preserve">
+    <value>Try again</value>
+    <comment>Text for a comment to try something again.</comment>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Welcome</value>
+    <comment>The traditional Welcome greeting, capitalized, for use as a page title.</comment>
+  </data>
+</root>
