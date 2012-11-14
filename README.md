@@ -48,6 +48,8 @@ The GitHub process, including fork and pull request, should be used.
 
 Language translation should not be used if at all possible, unless to fill any last-minute strings before supporting a language; in such cases, issues should be opened relating to that language.
 
+You should use the Multilingual Toolkit, it will help show the flags for reviewing terms, approving them, and updating the XLF files. There is a walkthrough here: [http://blogs.msdn.com/b/windowsappdev/archive/2012/10/03/multilingual-app-toolkit-for-developing-windows-store-apps-using-visual-studio-2012.aspx](http://blogs.msdn.com/b/windowsappdev/archive/2012/10/03/multilingual-app-toolkit-for-developing-windows-store-apps-using-visual-studio-2012.aspx)
+
 When submitting a pull request, the author should also make sure to update the CONTRIBUTORS.txt file with their desired display name under the language of contribution if they wish to be included in the app's credits.
 
 ## Thanks ##
