@@ -1,0 +1,10 @@
+4th & Mayor Localization Effort
+# 
+# When submitting a pull request, please include your name!
+# 
+#
+# Translation group or country name followed by a list of contributors.
+
+English Translation
+Jeff Wilcox
+
