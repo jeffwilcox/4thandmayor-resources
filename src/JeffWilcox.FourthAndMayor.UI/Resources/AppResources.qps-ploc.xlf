@@ -17,8 +17,8 @@
           <note from="MultilingualBuild" priority="2" annotates="source">Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</note>
         </trans-unit>
         <trans-unit id="Resx/ApplicationTitle" translate="yes" xml:space="preserve">
-          <source>MY APPLICATION</source>
-          <target state="new">MY APPLICATION</target>
+          <source>4ᵀᴴ %%amp; MAYOR</source>
+          <target state="new">4ᵀᴴ %%amp; MAYOR</target>
         </trans-unit>
         <trans-unit id="Resx/AppBarButtonText" translate="yes" xml:space="preserve">
           <source>add</source>
