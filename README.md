@@ -7,7 +7,7 @@ As hundreds of people have offered their support in localizing the app, I have f
 The goal of this project is to support the languages that Foursquare also supports from a cloud-side; because many components - badges, messages, notes, notifications, warnings, etc. - are passed on from the cloud, this is a key limitation.
 
 Thank you so much,
-[http://twitter.com/jeffwilcox]("@jeffwilcox")
+[@jeffwilcox](https://twitter.com/jeffwilcox)
 
 ## Languages ##
 The initial languages of interest (depending on developer interest) include:
