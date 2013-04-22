@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="qps-ploc" original="AppResources.resx" tool-id="MultilingualAppToolkit" product-name="JeffWilcox.FourthAndMayor.UI" product-version="5.0.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.2.2017.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resx">
+        <trans-unit id="Resx/ResourceFlowDirection" translate="yes" xml:space="preserve">
+          <source>LeftToRight</source>
+          <target state="translated">LeftToRight</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</note>
+        </trans-unit>
+        <trans-unit id="Resx/ResourceLanguage" translate="yes" xml:space="preserve">
+          <source>en-US</source>
+          <target state="translated">qps-ploc</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</note>
+        </trans-unit>
+        <trans-unit id="Resx/ApplicationTitle" translate="yes" xml:space="preserve">
+          <source>MY APPLICATION</source>
+          <target state="new">MY APPLICATION</target>
+        </trans-unit>
+        <trans-unit id="Resx/AppBarButtonText" translate="yes" xml:space="preserve">
+          <source>add</source>
+          <target state="new">add</target>
+        </trans-unit>
+        <trans-unit id="Resx/AppBarMenuItemText" translate="yes" xml:space="preserve">
+          <source>Menu Item</source>
+          <target state="new">Menu Item</target>
+        </trans-unit>
+        <trans-unit id="Resx/About" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="new">About</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">About - title for the page that is for "About" this app</note>
+        </trans-unit>
+        <trans-unit id="Resx/Cancel" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target state="new">Cancel</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Cancel command, typically used in a Button.</note>
+        </trans-unit>
+        <trans-unit id="Resx/FoursquareHouseRules" translate="yes" xml:space="preserve">
+          <source>Foursquare House Rules</source>
+          <target state="new">Foursquare House Rules</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Text for a link to Foursquare's "House Rules"</note>
+        </trans-unit>
+        <trans-unit id="Resx/FoursquareTerms" translate="yes" xml:space="preserve">
+          <source>Foursquare Terms</source>
+          <target state="new">Foursquare Terms</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Text for a link to Foursquare's Terms</note>
+        </trans-unit>
+        <trans-unit id="Resx/GroupFriendsInOtherCities" translate="yes" xml:space="preserve">
+          <source>Friends in other cities</source>
+          <target state="new">Friends in other cities</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Text for a group of friends who have checked in elsewhere.</note>
+        </trans-unit>
+        <trans-unit id="Resx/GroupLast3Hours" translate="yes" xml:space="preserve">
+          <source>Last 3 Hours</source>
+          <target state="new">Last 3 Hours</target>
+        </trans-unit>
+        <trans-unit id="Resx/GroupOlder" translate="yes" xml:space="preserve">
+          <source>Older</source>
+          <target state="new">Older</target>
+        </trans-unit>
+        <trans-unit id="Resx/GroupToday" translate="yes" xml:space="preserve">
+          <source>Today</source>
+          <target state="new">Today</target>
+        </trans-unit>
+        <trans-unit id="Resx/GroupYesterday" translate="yes" xml:space="preserve">
+          <source>Yesterday</source>
+          <target state="new">Yesterday</target>
+        </trans-unit>
+        <trans-unit id="Resx/Help" translate="yes" xml:space="preserve">
+          <source>Help</source>
+          <target state="new">Help</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Help command, typically used as a button to link to "help"/more information</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalEarlyMorning" translate="yes" xml:space="preserve">
+          <source>It's early in the morning!</source>
+          <target state="new">It's early in the morning!</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalGoodAfternoon" translate="yes" xml:space="preserve">
+          <source>Good afternoon.</source>
+          <target state="new">Good afternoon.</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalGoodEvening" translate="yes" xml:space="preserve">
+          <source>Good evening.</source>
+          <target state="new">Good evening.</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalGoodMorning" translate="yes" xml:space="preserve">
+          <source>Good morning.</source>
+          <target state="new">Good morning.</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalGoodNight" translate="yes" xml:space="preserve">
+          <source>Having a good night?</source>
+          <target state="new">Having a good night?</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalGreetings" translate="yes" xml:space="preserve">
+          <source>Greetings.</source>
+          <target state="new">Greetings.</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalHello" translate="yes" xml:space="preserve">
+          <source>Hello.</source>
+          <target state="new">Hello.</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalHey" translate="yes" xml:space="preserve">
+          <source>Hey.</source>
+          <target state="new">Hey.</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalHi" translate="yes" xml:space="preserve">
+          <source>Hi.</source>
+          <target state="new">Hi.</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalLoading" translate="yes" xml:space="preserve">
+          <source>Loading</source>
+          <target state="new">Loading</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/InformalLunchtime" translate="yes" xml:space="preserve">
+          <source>Lunchtime!</source>
+          <target state="new">Lunchtime!</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Used while information is loading, randomly, an informal message.</note>
+        </trans-unit>
+        <trans-unit id="Resx/LocationOffTitle" translate="yes" xml:space="preserve">
+          <source>Location is turned off</source>
+          <target state="new">Location is turned off</target>
+        </trans-unit>
+        <trans-unit id="Resx/LocationOffUseCharms" translate="yes" xml:space="preserve">
+          <source>Your location is currently turned off. Change your settings through the Settings charm to turn it back on.</source>
+          <target state="new">Your location is currently turned off. Change your settings through the Settings charm to turn it back on.</target>
+        </trans-unit>
+        <trans-unit id="Resx/LocationService" translate="yes" xml:space="preserve">
+          <source>Location Service</source>
+          <target state="new">Location Service</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Text describing the Location Service on the device</note>
+        </trans-unit>
+        <trans-unit id="Resx/Next" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="new">Next</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Next command, typically used in a Button.</note>
+        </trans-unit>
+        <trans-unit id="Resx/Ok" translate="yes" xml:space="preserve">
+          <source>Ok</source>
+          <target state="new">Ok</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Ok</note>
+        </trans-unit>
+        <trans-unit id="Resx/OobeTour" translate="yes" xml:space="preserve">
+          <source>Tour 4th %%amp; Mayor</source>
+          <target state="new">Tour 4th %%amp; Mayor</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Title text for the page that offers a "tour" of features and information about the app.</note>
+        </trans-unit>
+        <trans-unit id="Resx/OobeValidating" translate="yes" xml:space="preserve">
+          <source>Getting ready</source>
+          <target state="new">Getting ready</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Text about "getting ready" for something - used while validating the user's account.</note>
+        </trans-unit>
+        <trans-unit id="Resx/OobeWelcomeTo4thAndMayor" translate="yes" xml:space="preserve">
+          <source>Welcome to 4th %%amp; Mayor</source>
+          <target state="new">Welcome to 4th %%amp; Mayor</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Welcome greeting, welcoming to the app named 4th &amp; Mayor.</note>
+        </trans-unit>
+        <trans-unit id="Resx/Previous" translate="yes" xml:space="preserve">
+          <source>Previous</source>
+          <target state="new">Previous</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Previous command, typically used in a Button</note>
+        </trans-unit>
+        <trans-unit id="Resx/PrivacyPolicy" translate="yes" xml:space="preserve">
+          <source>Privacy Policy</source>
+          <target state="new">Privacy Policy</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Text for a link to the privacy policy for the app</note>
+        </trans-unit>
+        <trans-unit id="Resx/SignOut" translate="yes" xml:space="preserve">
+          <source>Sign Out</source>
+          <target state="new">Sign Out</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Command to "sign out" of the service</note>
+        </trans-unit>
+        <trans-unit id="Resx/TermsOfUse" translate="yes" xml:space="preserve">
+          <source>Terms of Use</source>
+          <target state="new">Terms of Use</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Text for a link to the app's Terms of Use.</note>
+        </trans-unit>
+        <trans-unit id="Resx/TryAgain" translate="yes" xml:space="preserve">
+          <source>Try again</source>
+          <target state="new">Try again</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">Text for a comment to try something again.</note>
+        </trans-unit>
+        <trans-unit id="Resx/Welcome" translate="yes" xml:space="preserve">
+          <source>Welcome</source>
+          <target state="new">Welcome</target>
+          <note from="MultilingualBuild" priority="2" annotates="source">The traditional Welcome greeting, capitalized, for use as a page title.</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
