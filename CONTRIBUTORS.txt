@@ -1,10 +1,26 @@
-4th & Mayor Localization Effort
+# 4th & Mayor Localization Effort
 # 
-# When submitting a pull request, please include your name!
+# When submitting a pull request, please include your name as you would like
+# it to appear in any credits list!
+#
+# Please review the LICENSE.txt and README.md files to learn more about the 
+# localization effort. Contributing a pull request with a substantial 
+# contribution of localization efforts does guarantee credit in the app's 
+# about pages for the localization work, however all other rights are reserved
+# by the app author, and no compensation is implicit.
+#
+# The localized application source in this repository is licensed under the 
+# Apache 2 license and may be used by others for any purpose as well. Feel free
+# to find useful strings and enjoy them in your own applications! If you do 
+# so, please consider including this contribution information list.
+#
+# Thanks!
+# ~ jw
 # 
 #
-# Translation group or country name followed by a list of contributors.
+# Translation group or country name should be prefixed with a colon, followed 
+# by a list of contributors. See the sample line for English.
+#
 
-English Translation
-Jeff Wilcox
-
+:English
+Jeff Wilcox, Seattle, USA

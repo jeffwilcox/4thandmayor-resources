@@ -35,6 +35,7 @@ Regional languages are not necessarily supported on the server-side, but in situ
 ## Tools ##
 
 - Windows 8 Operating System
+- Windows Phone 8.0 SDK
 - Visual Studio 2012 (Express or any SKU that can edit resource files, the format of the files is .resw)
 - [Multilingual App Toolkit for Visual Studio 2012](http://msdn.microsoft.com/en-us/windows/apps/hh848309.aspx "Multilingual App Toolkit for Visual Studio 2012")
 

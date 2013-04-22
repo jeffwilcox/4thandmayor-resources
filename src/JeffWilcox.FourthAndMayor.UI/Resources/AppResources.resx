@@ -117,6 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>en-US</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>MY APPLICATION</value>
+  </data>
+  <data name="AppBarButtonText" xml:space="preserve">
+    <value>add</value>
+  </data>
+  <data name="AppBarMenuItemText" xml:space="preserve">
+    <value>Menu Item</value>
+  </data>
   <data name="About" xml:space="preserve">
     <value>About</value>
     <comment>About - title for the page that is for "About" this app</comment>
@@ -215,15 +232,15 @@
     <value>Ok</value>
     <comment>Ok</comment>
   </data>
-  <data name="Oobe-Tour" xml:space="preserve">
+  <data name="OobeTour" xml:space="preserve">
     <value>Tour 4th &amp; Mayor</value>
     <comment>Title text for the page that offers a "tour" of features and information about the app.</comment>
   </data>
-  <data name="Oobe-Validating" xml:space="preserve">
+  <data name="OobeValidating" xml:space="preserve">
     <value>Getting ready</value>
     <comment>Text about "getting ready" for something - used while validating the user's account.</comment>
   </data>
-  <data name="Oobe-WelcomeTo4thAndMayor" xml:space="preserve">
+  <data name="OobeWelcomeTo4thAndMayor" xml:space="preserve">
     <value>Welcome to 4th &amp; Mayor</value>
     <comment>Welcome greeting, welcoming to the app named 4th &amp; Mayor.</comment>
   </data>
