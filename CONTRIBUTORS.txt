@@ -22,5 +22,31 @@
 # by a list of contributors. See the sample line for English.
 #
 
-:English
-Jeff Wilcox, Seattle, USA
+:all
+Wilcox Digital, LLC, Seattle, USA
+
+:de-DE
+
+:en-US
+
+:es-ES
+
+:fr-FR
+
+:id-ID
+
+:id-IT
+
+:ja-JP
+
+:ko-KO
+
+:pt-BR
+
+:pt-PT
+
+:ru-RU
+
+:th-TH
+
+:tr-TR

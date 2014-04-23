@@ -4,6 +4,8 @@ Hi, as many of us have spoken in the past, a key ask has been the availability o
 
 As hundreds of people have offered their support in localizing the app, I have finally started to take the time to prepare the underlying infrastructure here on GitHub to enable this.
 
+I've also been working with localization resources, vendors, friends and others in 2014 to enable more scenarios here.
+
 The goal of this project is to support the languages that Foursquare also supports from a cloud-side; because many components - badges, messages, notes, notifications, warnings, etc. - are passed on from the cloud, this is a key limitation.
 
 Thank you so much,
@@ -14,32 +16,29 @@ The initial languages of interest (depending on developer interest) include:
 
 - English (EN)
 - Spanish (ES)
-- French (FR)
+- French (fr-FR)
 - German (DE)
+- Indonesian (ID)
 - Italian (IT)
 - Japanese (JA)
+- Korean (KO)
 - Russian (RU)
-- Portuguese (PT)
-
-Depending on interest level and community support are these additional languages, also supported by Foursquare:
-
-- TH
-- KO
-- ID
+- Portuguese (pt-PT, pt-BR)
+- Thai (TH)
+- Turkish (TR)
 
 You can see the supported language/country codes on this page on Foursquare: [https://developer.foursquare.com/overview/versioning](https://developer.foursquare.com/overview/versioning)
+
+> Unfortunately no other languages will receive the cloud components localized, including badges, messages, alerts, and experiences. As a result, this is a hard limitation on the languages that can be localized. Sorry! The limitation is on the foursquare side.
 
 ### Regional Languages ###
 Regional languages are not necessarily supported on the server-side, but in situations where it makes sense for the client UI to be localized into variants, this is fine to do - with the understanding that server-provided content will still be in a more generic form that may or may not be appropriate for the sub-locale.
 
 ## Tools ##
 
-- Windows 8 Operating System
-- Windows Phone 8.0 SDK
-- Visual Studio 2012 (Express or any SKU that can edit resource files, the format of the files is .resw)
-- [Multilingual App Toolkit for Visual Studio 2012](http://msdn.microsoft.com/en-us/windows/apps/hh848309.aspx "Multilingual App Toolkit for Visual Studio 2012")
-
-*The Multilingual Toolkit will work with VS2012 on Windows 7 in some situations I am told.*
+- Windows 8.1 Operating System
+- Windows Phone 8.1 Developer Preview SDK
+- Visual Studio 2013 (Express or any SKU that can edit resource files, the format of the files is .resw)
 
 ## Process ##
 
@@ -49,7 +48,7 @@ The GitHub process, including fork and pull request, should be used.
 
 Language translation should not be used if at all possible, unless to fill any last-minute strings before supporting a language; in such cases, issues should be opened relating to that language.
 
-You should use the Multilingual Toolkit, it will help show the flags for reviewing terms, approving them, and updating the XLF files. There is a walkthrough here: [http://blogs.msdn.com/b/windowsappdev/archive/2012/10/03/multilingual-app-toolkit-for-developing-windows-store-apps-using-visual-studio-2012.aspx](http://blogs.msdn.com/b/windowsappdev/archive/2012/10/03/multilingual-app-toolkit-for-developing-windows-store-apps-using-visual-studio-2012.aspx)
+I recommend the app [Zeta Resource Editor](http://www.zeta-resource-editor.com/index.html) for side-by-side work; though I may also use the multilingual app toolkit.
 
 When submitting a pull request, the author should also make sure to update the CONTRIBUTORS.txt file with their desired display name under the language of contribution if they wish to be included in the app's credits.
 

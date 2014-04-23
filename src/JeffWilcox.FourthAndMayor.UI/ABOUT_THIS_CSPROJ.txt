@@ -1,4 +1,0 @@
-﻿This Visual Studio project is a placeholder for the application. It is used to
-enable anyone to use and contribution localization work to the 
-AppResources.resx file without needing to load in a lot of dependencies or 
-build the actual application source code.
