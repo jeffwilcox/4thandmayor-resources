@@ -34,6 +34,10 @@ You can see the supported language/country codes on this page on Foursquare: [ht
 ### Regional Languages ###
 Regional languages are not necessarily supported on the server-side, but in situations where it makes sense for the client UI to be localized into variants, this is fine to do - with the understanding that server-provided content will still be in a more generic form that may or may not be appropriate for the sub-locale.
 
+## Target Release ##
+
+The Windows Phone 8.1 release is the initial target for localization. Adding localization to the Windows Phone 7.1 OS or 8.0 versions will be very involved.
+
 ## Tools ##
 
 - Windows 8.1 Operating System
